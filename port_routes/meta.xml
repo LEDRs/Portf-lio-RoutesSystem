@@ -1,0 +1,6 @@
+<meta>
+
+    <script src="library/routes-g.lua" type="shared" cache="false" />
+    <script src="library/routes-s.lua" type="server" cache="false" />
+
+</meta>
